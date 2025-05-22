@@ -1,0 +1,3028 @@
+fileFormatVersion: 2
+guid: 0c0c02674ab713b42a34d7ae57f53c31
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SeaCookie_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1861
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414af83e418f612439a41f49bd503a22
+      internalID: -224004804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_1
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1861
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f06ddba79574c5468bc6b166f2dccae
+      internalID: -453678143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_2
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1861
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d192a272e29436c42a72a8db3da71e92
+      internalID: -120562842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_3
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1861
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c7bed10ffcefa408de462afdab39bf
+      internalID: 802189741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_4
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 1861
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0493c60c548f7494995f81e380f687e5
+      internalID: -524858000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_5
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 1861
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ab745dfe6aa63488d8cf20241474c1
+      internalID: -1819500842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_6
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 1861
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad99a3f9c651def4e9ff57c2c4e6ce81
+      internalID: -769207084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_7
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 1861
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a5bec22778f75429ba4c76d02638fa
+      internalID: -1389152780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_8
+      rect:
+        serializedVersion: 2
+        x: 2977
+        y: 1861
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ab4d0573aeabf4f9df2934cd247459
+      internalID: -2026553513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_9
+      rect:
+        serializedVersion: 2
+        x: 3349
+        y: 1861
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eff2d672b15e7b478755bb34358dbfc
+      internalID: -161586306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_10
+      rect:
+        serializedVersion: 2
+        x: 3721
+        y: 1861
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4f38962c309cd4ca542de58834b8ea
+      internalID: 904208139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_11
+      rect:
+        serializedVersion: 2
+        x: 4093
+        y: 1861
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58ebd9a0a466d048b00b7589bb5f107
+      internalID: 2047866592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_12
+      rect:
+        serializedVersion: 2
+        x: 4465
+        y: 1861
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1076a5bbb0cd794682ce141f105bd8d
+      internalID: 38686220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_13
+      rect:
+        serializedVersion: 2
+        x: 4837
+        y: 1861
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db227206272cd694991d124a2310ed23
+      internalID: 1858615500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_14
+      rect:
+        serializedVersion: 2
+        x: 5209
+        y: 1861
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9997ef8858dbc4b8954a5014f9968f
+      internalID: 1331011475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_15
+      rect:
+        serializedVersion: 2
+        x: 5581
+        y: 1861
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f37d8d61cee5b41bc5272f8fdb0432
+      internalID: -1174041405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_16
+      rect:
+        serializedVersion: 2
+        x: 5953
+        y: 1861
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d753e29718bfe23419a184d67fd539e2
+      internalID: 397834658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_17
+      rect:
+        serializedVersion: 2
+        x: 6325
+        y: 1861
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7a183520ba0dc42a190951895bddec
+      internalID: -889383751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_18
+      rect:
+        serializedVersion: 2
+        x: 6697
+        y: 1861
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a253015f2a2efdd4c9cd0b92d9e373ce
+      internalID: -1835445263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_19
+      rect:
+        serializedVersion: 2
+        x: 7069
+        y: 1861
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9de47b8be7b1b48b9c9fe985d59552
+      internalID: 1683791222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_20
+      rect:
+        serializedVersion: 2
+        x: 7441
+        y: 1861
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b65000ef73b924c92eb216b94fb24b
+      internalID: 1943548529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1489
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6617e55ab7a9bf349a2fab2abbd9347b
+      internalID: -43292253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_22
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1489
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9ac7bea40c83a4fbfdef419168508d
+      internalID: -1010867722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_23
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1489
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886f8c2eb3f938b4b986384cbda88674
+      internalID: 2126335591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_24
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1489
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6690078ec330efe4bb0aa85b57a38245
+      internalID: 308573928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_25
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 1489
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814d85b047500fc41a6f1777dfec0f74
+      internalID: 1875235364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_26
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 1489
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cca57c80aad1a43b422e1edf020369
+      internalID: 119324797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_27
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 1489
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279be9190b78017438e55baceddd24c9
+      internalID: 1918495395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_28
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 1489
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a049accba24ccd54ca23e1f5946383ea
+      internalID: -1988704611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_29
+      rect:
+        serializedVersion: 2
+        x: 2977
+        y: 1489
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce359179d7b73b4c8dcd00b14af66ca
+      internalID: -1631727808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_30
+      rect:
+        serializedVersion: 2
+        x: 3349
+        y: 1489
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aff5fabed6c301458b8b9dc6a4ad3f4
+      internalID: 142358231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_31
+      rect:
+        serializedVersion: 2
+        x: 3721
+        y: 1489
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f0b6468fc32f141bc5b6dd24aee2aa
+      internalID: -1359407860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_32
+      rect:
+        serializedVersion: 2
+        x: 4093
+        y: 1489
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f5b22ab1a02f94e85112461e3e23ab
+      internalID: -1218964836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_33
+      rect:
+        serializedVersion: 2
+        x: 4465
+        y: 1489
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b74e559886ebd41b24f04e114e111e
+      internalID: 637758682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_34
+      rect:
+        serializedVersion: 2
+        x: 4837
+        y: 1489
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76896281e26351446abc4ce60a10fcf3
+      internalID: 863154027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_35
+      rect:
+        serializedVersion: 2
+        x: 5209
+        y: 1489
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb1ac15b7b424f47a880c480aab1bed
+      internalID: 62898088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_36
+      rect:
+        serializedVersion: 2
+        x: 5581
+        y: 1489
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862528d5189557548b3e46422a3d5452
+      internalID: 1621147019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_37
+      rect:
+        serializedVersion: 2
+        x: 5953
+        y: 1489
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcac0e4250c64404b93844095530acaa
+      internalID: 1725705732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_38
+      rect:
+        serializedVersion: 2
+        x: 6325
+        y: 1489
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd61a54840b8b44c92776897a77e981
+      internalID: 1884522924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_39
+      rect:
+        serializedVersion: 2
+        x: 6697
+        y: 1489
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13342764c488e3458fd2c0906979ae1
+      internalID: -1457430516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_40
+      rect:
+        serializedVersion: 2
+        x: 7069
+        y: 1489
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029af019cdfd53b499b695c6fbd0521c
+      internalID: 1746398702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_41
+      rect:
+        serializedVersion: 2
+        x: 7441
+        y: 1489
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81541288be8312a45ba56cb6f2954832
+      internalID: -1844400715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1117
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d81ccbd5b71384f8d4e435e6406b6f
+      internalID: -930090394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_43
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1117
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71aae8ea931d5ae40af1e7b4bd55f0d6
+      internalID: 664210329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_44
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1117
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717874bc1d8a9ea4fbb6b98fecedddd3
+      internalID: 1540281447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_45
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1117
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900eea9d73dfb90439128c70554bccec
+      internalID: -1935794592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_46
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 1117
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51846b035debe6a40ac046ad76075777
+      internalID: -1716762717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_47
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 1117
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06eb60257ce73654aa4703af4c3d285b
+      internalID: 1216277465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_48
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 1117
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01d5b3bdf69aa14183f7c0a7364de02
+      internalID: -1114890954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_49
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 1117
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59bd761755969e4e8346692cb4be0d0
+      internalID: 1997062399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_50
+      rect:
+        serializedVersion: 2
+        x: 2977
+        y: 1117
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8743d93e53dcfd1488e7caf9ecc71eb2
+      internalID: -1475689981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_51
+      rect:
+        serializedVersion: 2
+        x: 3349
+        y: 1117
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e50d08ad1f15cf4db87407ab4c0a019
+      internalID: -459061243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_52
+      rect:
+        serializedVersion: 2
+        x: 3721
+        y: 1117
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e59747cef859d74e8d47a42d4eb2a99
+      internalID: 1990169056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_53
+      rect:
+        serializedVersion: 2
+        x: 4093
+        y: 1117
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d9ad74d6546c94fa7cd86905c417fd
+      internalID: -288743935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_54
+      rect:
+        serializedVersion: 2
+        x: 4465
+        y: 1117
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca485fdf105c9a42abf165022445afe
+      internalID: -568923991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_55
+      rect:
+        serializedVersion: 2
+        x: 4837
+        y: 1117
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750da2dad71433f41980480820c5d460
+      internalID: -1165104575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_56
+      rect:
+        serializedVersion: 2
+        x: 5209
+        y: 1117
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba16358d86090774583071175d15d887
+      internalID: 143677907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_57
+      rect:
+        serializedVersion: 2
+        x: 5581
+        y: 1117
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5941ad5e62b7cf74b9fd198648e3d3ca
+      internalID: 553536020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_58
+      rect:
+        serializedVersion: 2
+        x: 5953
+        y: 1117
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee8c6075fb837c4a97c66ea7bd77ef4
+      internalID: 1056731086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_59
+      rect:
+        serializedVersion: 2
+        x: 6325
+        y: 1117
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca3c83d70b0e7045a3c7c5792441882
+      internalID: -368991855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_60
+      rect:
+        serializedVersion: 2
+        x: 6697
+        y: 1117
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43dc49dba9c7f1745b3dbcaf33c3b43f
+      internalID: -1208167996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_61
+      rect:
+        serializedVersion: 2
+        x: 7069
+        y: 1117
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c4a3d4c98de3a408dc5859539f1256
+      internalID: -1469840613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_62
+      rect:
+        serializedVersion: 2
+        x: 7441
+        y: 1117
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85043a4899a87454f9fc584b097891b7
+      internalID: 448057946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_63
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 745
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7cb782d2ec62a4aa6e86374073e745
+      internalID: 571891783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_64
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 745
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a874a68aaebd94f84977087f441c2e
+      internalID: 960227711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_65
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 745
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae650cf645d522d49ad2f1ea2279ad6b
+      internalID: 667660041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_66
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 745
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f1f61b35163bd4c8ef0ec9b07183c3
+      internalID: 807577241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_67
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 745
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e942a3c927376bd408e8b4bbffadd3df
+      internalID: -1347809045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_68
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 745
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5802e6a472dab0942bfd25b417ac10b1
+      internalID: -884553315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_69
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 745
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32a4f22b56bd394cba8ed0be7371a51
+      internalID: 773150362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_70
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 745
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074d4fd3ad232344182b8c8374052863
+      internalID: 1139971392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_71
+      rect:
+        serializedVersion: 2
+        x: 2977
+        y: 745
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362177305ff937a468c066d5b34248cc
+      internalID: 1345544679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_72
+      rect:
+        serializedVersion: 2
+        x: 3349
+        y: 745
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23aca24387e33144381242782fe9277e
+      internalID: 665589319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_73
+      rect:
+        serializedVersion: 2
+        x: 3721
+        y: 745
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5d6eb0576861d44b12b54e46e23e19
+      internalID: 1336795183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_74
+      rect:
+        serializedVersion: 2
+        x: 4093
+        y: 745
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7fef3e0f1d84844bafb7768f54fcfa
+      internalID: 277474189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_75
+      rect:
+        serializedVersion: 2
+        x: 4465
+        y: 745
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7140a9671c6ba1644968e3760209bd6b
+      internalID: 1874966622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_76
+      rect:
+        serializedVersion: 2
+        x: 4837
+        y: 745
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f46d28d02064b4ca0d451758170fa4
+      internalID: 1423964476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_77
+      rect:
+        serializedVersion: 2
+        x: 5209
+        y: 745
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7016c3f7c157e7449d9fcb899b4bf99
+      internalID: 23555561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_78
+      rect:
+        serializedVersion: 2
+        x: 5581
+        y: 745
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b931ee3a79945645b51ffdcef06d5c4
+      internalID: -2118763316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_79
+      rect:
+        serializedVersion: 2
+        x: 5953
+        y: 745
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea640bd76aef8f40800e2384dc9ba53
+      internalID: -82451765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_80
+      rect:
+        serializedVersion: 2
+        x: 6325
+        y: 745
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da8de07b89b3674f9809085029f74c3
+      internalID: -1216753527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_81
+      rect:
+        serializedVersion: 2
+        x: 6697
+        y: 745
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a5dee49d849b4499669b95b8709303
+      internalID: -520907728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_82
+      rect:
+        serializedVersion: 2
+        x: 7069
+        y: 745
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e279418c2e707c648acd37121fb898fb
+      internalID: -321743123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_83
+      rect:
+        serializedVersion: 2
+        x: 7441
+        y: 745
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d93746897c1174f9b4968d712b9f86
+      internalID: -1953116229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_84
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 373
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99dd9b9c64f178542af3b32ad5e63206
+      internalID: 958040988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_85
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 373
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac2b9be96655eb47b3e4e40bc9c6647
+      internalID: -775484033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_86
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 373
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9fa31d9070e0748808b0d62998a4fc
+      internalID: 1441151578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_87
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 373
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3a7eb7fc1ea034388993162dd49089
+      internalID: -938383579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_88
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 373
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af65b50f22bceaf43a61040e43b2c30f
+      internalID: -373421853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_89
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 373
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3d9ac7740098645ac83c0fb58ddf3d
+      internalID: -1861629663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_90
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 373
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81de2b8889adf24ead9511796bafcac
+      internalID: -897633916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_91
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 373
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a949d3a192d5540a9e1b7e15e6a663
+      internalID: -342819780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_92
+      rect:
+        serializedVersion: 2
+        x: 2977
+        y: 373
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0c71282a3d38c46bdc60d169cd1658
+      internalID: -1693699263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_93
+      rect:
+        serializedVersion: 2
+        x: 3349
+        y: 373
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9f1f3a4aaacb2428deb73a01082bdb
+      internalID: -1623435933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_94
+      rect:
+        serializedVersion: 2
+        x: 3721
+        y: 373
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1563d1dae233af44a00aca83137ba03
+      internalID: 685723166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_95
+      rect:
+        serializedVersion: 2
+        x: 4093
+        y: 373
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742c1928ae34e20478682f7d28ce070a
+      internalID: 58171248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_96
+      rect:
+        serializedVersion: 2
+        x: 4465
+        y: 373
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4933b3660a0cb41b5f7abd134db812
+      internalID: 134016537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_97
+      rect:
+        serializedVersion: 2
+        x: 4837
+        y: 373
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e74b971d0cc1484dbe9cce8981de28c
+      internalID: 1769839408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_98
+      rect:
+        serializedVersion: 2
+        x: 5209
+        y: 373
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049c3b4f928bf134ea4dff2e91ae1470
+      internalID: 2112632486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_99
+      rect:
+        serializedVersion: 2
+        x: 5581
+        y: 373
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2352f430bafa0e44382aff6b242ac9de
+      internalID: 694134164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_100
+      rect:
+        serializedVersion: 2
+        x: 5953
+        y: 373
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808dce1d48f34ca499a0ed056162103e
+      internalID: 1538485431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_101
+      rect:
+        serializedVersion: 2
+        x: 6325
+        y: 373
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101711413cde6ad4dbb2b186d4fc73c2
+      internalID: 639690498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_102
+      rect:
+        serializedVersion: 2
+        x: 6697
+        y: 373
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97498e6beef0fa48b1e45d25e232890
+      internalID: -1210618600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_103
+      rect:
+        serializedVersion: 2
+        x: 7069
+        y: 373
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce9d44d463f14f4baeea0ac0bc51ed4
+      internalID: 1693328323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_104
+      rect:
+        serializedVersion: 2
+        x: 7441
+        y: 373
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208f6cec937a95842988d244360a362f
+      internalID: 2033724466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_105
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20d565700e01c74480dc1d1f89bdc8d
+      internalID: -893096780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_106
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a473249fc7cd1446bfa46e4ee043863
+      internalID: 2129937202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_107
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce6f3b215be18349bf49e706dc2fa6d
+      internalID: 1324889833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_108
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d42d3e8ce412bd459d52e8084f9837d
+      internalID: -108458690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_109
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 1
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83c7cc39fb2f1642aa574977f9839bf
+      internalID: 97324635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_110
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 1
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af80dc278ab64e418595d11a9e49cb2
+      internalID: 2043936861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_111
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 1
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8527d21dd7f3ce944942bc906e4fd8fa
+      internalID: 1558238007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_112
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 1
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552cbb90f1ee1764bae9f76bdb75d8a3
+      internalID: 225290500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_113
+      rect:
+        serializedVersion: 2
+        x: 2977
+        y: 1
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86afa92a3e56a9e428c26bd27ebbf500
+      internalID: -471547730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_114
+      rect:
+        serializedVersion: 2
+        x: 3349
+        y: 1
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3d758fbbcfbd54c978399ed1c0ab7a
+      internalID: 1367784077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_115
+      rect:
+        serializedVersion: 2
+        x: 3721
+        y: 1
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949c7ee6bc501634a8d92002500a000f
+      internalID: 1086304377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_116
+      rect:
+        serializedVersion: 2
+        x: 4093
+        y: 1
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e21d398969a004abca7026ea3b60b3
+      internalID: -876844437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_117
+      rect:
+        serializedVersion: 2
+        x: 4465
+        y: 1
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f5f5ad4355a8444ae28550535cedf1
+      internalID: 1044054137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_118
+      rect:
+        serializedVersion: 2
+        x: 4837
+        y: 1
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db13fa7d0e15fe498e57ce092a6bde6
+      internalID: -655746748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_119
+      rect:
+        serializedVersion: 2
+        x: 5209
+        y: 1
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f92d438cd90795449d241b5b2e9e138
+      internalID: -956118002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_120
+      rect:
+        serializedVersion: 2
+        x: 5581
+        y: 1
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd02c56000345174f84b321e18a4984f
+      internalID: 426713069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_121
+      rect:
+        serializedVersion: 2
+        x: 5953
+        y: 1
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aedef4f68459df43827136bbab3af09
+      internalID: 1072690978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_122
+      rect:
+        serializedVersion: 2
+        x: 6325
+        y: 1
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6778cd9e8ea94054d9d2ab410dc1a2c8
+      internalID: -349983753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_123
+      rect:
+        serializedVersion: 2
+        x: 6697
+        y: 1
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece762604041c004ea3feb9cec01ecbd
+      internalID: 1191047642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_124
+      rect:
+        serializedVersion: 2
+        x: 7069
+        y: 1
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2fd6f0affe11848825c526ee9b03b5
+      internalID: -1027663226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeaCookie_125
+      rect:
+        serializedVersion: 2
+        x: 7441
+        y: 1
+        width: 372
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6087abfaa5862f4eb89ab73a5631e05
+      internalID: -475022768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 188a9f4892cb6be47afdcd45a68b267d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SeaCookie_0: -224004804
+      SeaCookie_1: -453678143
+      SeaCookie_10: 904208139
+      SeaCookie_100: 1538485431
+      SeaCookie_101: 639690498
+      SeaCookie_102: -1210618600
+      SeaCookie_103: 1693328323
+      SeaCookie_104: 2033724466
+      SeaCookie_105: -893096780
+      SeaCookie_106: 2129937202
+      SeaCookie_107: 1324889833
+      SeaCookie_108: -108458690
+      SeaCookie_109: 97324635
+      SeaCookie_11: 2047866592
+      SeaCookie_110: 2043936861
+      SeaCookie_111: 1558238007
+      SeaCookie_112: 225290500
+      SeaCookie_113: -471547730
+      SeaCookie_114: 1367784077
+      SeaCookie_115: 1086304377
+      SeaCookie_116: -876844437
+      SeaCookie_117: 1044054137
+      SeaCookie_118: -655746748
+      SeaCookie_119: -956118002
+      SeaCookie_12: 38686220
+      SeaCookie_120: 426713069
+      SeaCookie_121: 1072690978
+      SeaCookie_122: -349983753
+      SeaCookie_123: 1191047642
+      SeaCookie_124: -1027663226
+      SeaCookie_125: -475022768
+      SeaCookie_13: 1858615500
+      SeaCookie_14: 1331011475
+      SeaCookie_15: -1174041405
+      SeaCookie_16: 397834658
+      SeaCookie_17: -889383751
+      SeaCookie_18: -1835445263
+      SeaCookie_19: 1683791222
+      SeaCookie_2: -120562842
+      SeaCookie_20: 1943548529
+      SeaCookie_21: -43292253
+      SeaCookie_22: -1010867722
+      SeaCookie_23: 2126335591
+      SeaCookie_24: 308573928
+      SeaCookie_25: 1875235364
+      SeaCookie_26: 119324797
+      SeaCookie_27: 1918495395
+      SeaCookie_28: -1988704611
+      SeaCookie_29: -1631727808
+      SeaCookie_3: 802189741
+      SeaCookie_30: 142358231
+      SeaCookie_31: -1359407860
+      SeaCookie_32: -1218964836
+      SeaCookie_33: 637758682
+      SeaCookie_34: 863154027
+      SeaCookie_35: 62898088
+      SeaCookie_36: 1621147019
+      SeaCookie_37: 1725705732
+      SeaCookie_38: 1884522924
+      SeaCookie_39: -1457430516
+      SeaCookie_4: -524858000
+      SeaCookie_40: 1746398702
+      SeaCookie_41: -1844400715
+      SeaCookie_42: -930090394
+      SeaCookie_43: 664210329
+      SeaCookie_44: 1540281447
+      SeaCookie_45: -1935794592
+      SeaCookie_46: -1716762717
+      SeaCookie_47: 1216277465
+      SeaCookie_48: -1114890954
+      SeaCookie_49: 1997062399
+      SeaCookie_5: -1819500842
+      SeaCookie_50: -1475689981
+      SeaCookie_51: -459061243
+      SeaCookie_52: 1990169056
+      SeaCookie_53: -288743935
+      SeaCookie_54: -568923991
+      SeaCookie_55: -1165104575
+      SeaCookie_56: 143677907
+      SeaCookie_57: 553536020
+      SeaCookie_58: 1056731086
+      SeaCookie_59: -368991855
+      SeaCookie_6: -769207084
+      SeaCookie_60: -1208167996
+      SeaCookie_61: -1469840613
+      SeaCookie_62: 448057946
+      SeaCookie_63: 571891783
+      SeaCookie_64: 960227711
+      SeaCookie_65: 667660041
+      SeaCookie_66: 807577241
+      SeaCookie_67: -1347809045
+      SeaCookie_68: -884553315
+      SeaCookie_69: 773150362
+      SeaCookie_7: -1389152780
+      SeaCookie_70: 1139971392
+      SeaCookie_71: 1345544679
+      SeaCookie_72: 665589319
+      SeaCookie_73: 1336795183
+      SeaCookie_74: 277474189
+      SeaCookie_75: 1874966622
+      SeaCookie_76: 1423964476
+      SeaCookie_77: 23555561
+      SeaCookie_78: -2118763316
+      SeaCookie_79: -82451765
+      SeaCookie_8: -2026553513
+      SeaCookie_80: -1216753527
+      SeaCookie_81: -520907728
+      SeaCookie_82: -321743123
+      SeaCookie_83: -1953116229
+      SeaCookie_84: 958040988
+      SeaCookie_85: -775484033
+      SeaCookie_86: 1441151578
+      SeaCookie_87: -938383579
+      SeaCookie_88: -373421853
+      SeaCookie_89: -1861629663
+      SeaCookie_9: -161586306
+      SeaCookie_90: -897633916
+      SeaCookie_91: -342819780
+      SeaCookie_92: -1693699263
+      SeaCookie_93: -1623435933
+      SeaCookie_94: 685723166
+      SeaCookie_95: 58171248
+      SeaCookie_96: 134016537
+      SeaCookie_97: 1769839408
+      SeaCookie_98: 2112632486
+      SeaCookie_99: 694134164
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
