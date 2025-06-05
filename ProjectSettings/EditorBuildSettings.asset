@@ -6,7 +6,13 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/20250402_HelloWorld/Scenes/SampleScene.unity
+    path: Assets/20250526_Omok/Scenes/OmokTitleScene.unity
+    guid: 2aa9da9cfe1aa5f49b75ae64142995a0
+  - enabled: 1
+    path: Assets/20250526Concave/Scene/OmokLobbyScene.unity
+    guid: 74f506eccade1254eb66d20624ec75e6
+  - enabled: 1
+    path: Assets/20250526_Omok/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}

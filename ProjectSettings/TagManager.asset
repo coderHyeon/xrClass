@@ -24,11 +24,13 @@ TagManager:
   - place
   - Interaction
   - Potion
+  - Bullet
+  - MyBullet
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - MyBullet
   - Water
   - UI
   - Background
